@@ -4,6 +4,8 @@ This is script is used to automate some predefined nmap scripts and to run the s
 The script can be updated regularly for improving the Automation work
 
 
+https://github.com/Alphaarun3/Automation/issues/1#issue-557939688
+
 Setup Instruction:
 
 pip3 install pyfiglet
