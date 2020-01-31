@@ -16,9 +16,9 @@ pip3 install pyfiglet
 Usgae :
 python3 Auto-nmap.py
 
+
+
+
 Step 1: enter the host name or an ip address
-step 2: enter the scan type
 
-
-
------------------------------------------------->>>>>>>>>>>>>>>>>>><<<<<<<<<<<<<<<<<<<<---------------------------------------------
+Step 2: enter the scan type
