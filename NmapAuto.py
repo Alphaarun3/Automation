@@ -84,7 +84,7 @@ elif n == 8:
 
 
 else:
-    print("choose any one option")
+    print("Again run the script to choose any one option")
 
 
 ########################## Program ends here ############################33
