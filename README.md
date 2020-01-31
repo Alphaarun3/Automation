@@ -1,4 +1,4 @@
-Auto-Nmap Scanner
+#Auto-Nmap Scanner
 
 
 This is script is used to automate some predefined nmap scripts and to run the scripts, you need to follow to the tool setup and usage.
