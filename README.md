@@ -15,7 +15,7 @@ pip3 install pyfiglet
 
 
 Usgae :
-python3 Auto-nmap.py
+python3 NmapAuto.py
 
 
 
