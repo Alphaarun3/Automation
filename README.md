@@ -4,7 +4,7 @@ This script is used to automate some predefined nmap scripts and to run the scri
 The script can be updated regularly for improving the Automation work
 
 
-![BannerPic1](https://user-images.githubusercontent.com/46221898/73517067-6efdf200-4420-11ea-8352-66af816e7eca.png)
+![Nmap Poc](https://user-images.githubusercontent.com/46221898/73517335-31e62f80-4421-11ea-9d22-6aafa7b34c69.png)
 
 
 Setup Instruction:
